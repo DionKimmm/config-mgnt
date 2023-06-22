@@ -47,6 +47,7 @@ spec:
     - config-management-monitoring
     - resource-group-system
     - cert-manager
+    - acm-demo
   parameters:
     exemptImages:
     - gcr.io/anthos-baremetal-release/*
