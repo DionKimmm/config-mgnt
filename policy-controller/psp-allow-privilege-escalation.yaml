@@ -48,6 +48,13 @@ spec:
     - resource-group-system
     - cert-manager
     - acm-demo
+    - asm-gateway
+    - gatekeeper-system
+    - gke-connect
+    - gmp-public
+    - gmp-system
+    - kube-public
+    - resource-group-system
   parameters:
     exemptImages:
     - gcr.io/anthos-baremetal-release/*
